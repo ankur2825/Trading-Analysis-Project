@@ -1,1 +1,1 @@
-# rading-Analysis-Project
+# Trading-Analysis-Project
